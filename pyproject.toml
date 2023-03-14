@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "you-track-rest-api-client"
+name = "youtrack-python-openapi"
 version = "2023.1"
 description = "A client library for accessing YouTrack REST API"
 repository = "https://github.com/noahp/youtrack-python-openapi"

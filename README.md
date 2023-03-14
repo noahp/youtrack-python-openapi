@@ -15,6 +15,8 @@ https://github.com/openapi-generators/openapi-python-client
 ❯ openapi-python-client generate --url https://youtrack.jetbrains.com/api/openapi.json
 ```
 
+Note that the _package name_ here is `youtrack-python-openapi`, but the _module to import_ is `you-track-rest-api-client`. I might change the package name in the future 🤷.
+
 The remainder of this readme is from the output of that script.
 
 ---
